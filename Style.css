@@ -1,0 +1,30 @@
+nav{
+    background-color: #002060;
+}
+
+header{
+    background-color: #002060;
+}
+
+.navbar-nav .nav-link.active{
+    color: white;
+}
+
+.navbar-nav .nav-link:not(.active){
+    color: lightslategrey;
+}
+
+footer{
+    background-color: #002060;
+    color: white;
+}
+
+.speichern{
+    background-color: seagreen;
+    border-color: seagreen;
+}
+
+.abbrechen{
+    background-color: dimgray;
+    border-color: dimgray;
+}
